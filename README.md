@@ -1,3 +1,3 @@
 # Email-sender-using-java
-Email sender using JavaMail API
-you can add attachments by specifying the path of this file
+Email sender using JavaMail API.
+You can add attachments by specifying the path of this file
